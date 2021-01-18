@@ -1,0 +1,51 @@
+*{
+  text-decoration: none;
+  color: black;
+}
+ul{
+  list-style: none;
+  font-size: 20px;
+  line-height: 42px;
+  display: inline-block;
+
+}
+
+ li a:hover{
+   background-color:#b8b2a2;
+
+   cursor: pointer;
+ }
+.img1{
+  margin: -22% 28%;
+
+}
+.bio{
+  padding: 10px 34px;
+    border: 2px solid #b99292;
+    margin: 163px 727px;
+
+
+}
+.container{
+margin: -333px 325px;
+padding: 10px 10px;
+
+}
+#text{
+  overflow: hidden;
+  padding: 281px 372px;
+}
+#tech{
+  padding: 15px 228px;
+    margin: -254px 14px;
+    display: inline-block;
+
+}
+.resh{
+  padding: 14px 365px;
+    margin: -342px 6px;
+}
+#resch{
+  font-size: 2em;
+
+}
